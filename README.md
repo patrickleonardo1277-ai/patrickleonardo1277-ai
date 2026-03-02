@@ -3,6 +3,6 @@
 
 - 🔭 Trabalho com estoque
 - 🌱 Estudo desenvolvimento de sistema
-- 📫 Cintato: patrick.leonardo1277@gmail.com  
+- 📫 Contato: patrick.leonardo1277@gmail.com  
 
 
